@@ -1,0 +1,34 @@
+.title {
+  font-weight: 900 !important;
+  font-size: 20px !important;
+}
+
+.table-header {
+  font-weight: 700 !important;
+}
+
+.action-column {
+  display: flex !important;
+}
+
+.error {
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  color: red !important;
+}
+
+.secondary-button {
+  background-color: #d7d7d7 !important;
+  color: #212121 !important;
+  border-color: #d7d7d7 !important;
+}
+
+.delete-button {
+  background-color: #ef5350 !important;
+  border-color: #ef5350 !important;
+}
+
+.users-table {
+  border: 1px solid #d7d7d7 !important;
+  border-radius: 5px !important;
+}
